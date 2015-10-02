@@ -3,7 +3,7 @@ void setup()
 {
   //your code here
   size(300,300);
-  bob=new Snowflake[30];
+  bob=new Snowflake[100];
   for(int i=0; i<bob.length; i++)
   {
     bob[i]=new Snowflake();
